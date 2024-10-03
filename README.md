@@ -1,4 +1,4 @@
-![Offline GPTs](https://github.com/user-attachments/assets/b109e9e1-ca9a-4b11-9363-d10114e835c4)
+![Offline](https://github.com/user-attachments/assets/258d986d-d855-40eb-9792-82b92ec1828e)
 
 > Utilizing artificial intelligence capabilities offline and locally.
 
@@ -11,6 +11,15 @@ One notable example of an offline AI model is GPT4ALL, designed to deliver natur
 Another example is Jan, an offline AI program that enhances language processing capabilities in localized environments. Designed for efficiency on smaller devices and edge computing platforms, Jan is well-suited for scenarios where computational resources are constrained. It handles a range of natural language processing tasks, including text analysis, translation, and speech recognition, making it a practical choice for businesses operating in low-bandwidth areas. By being lightweight, Jan strikes a balance between performance and resource efficiency. Like GPT4ALL, it empowers users to maintain control over their data, enabling the use of AI tools in a secure and isolated setting.
 
 #
+### Custom GPT for Offline GPTs
+
+![Offline GPT](https://github.com/user-attachments/assets/6dbc6a88-ed70-40d9-a6ea-d308dc65c061)
+
+[Offline GPT](https://chatgpt.com/g/g-PhOe9lrMu-offline-gpt) assists users in planning, developing, and simulating offline GPT programs. Its primary function is to provide guidance on how to structure and maintain GPT models in environments where internet connectivity is limited or unavailable. By simulating interactions and troubleshooting development issues, this GPT helps users understand the best practices for refining prompts and optimizing GPT performance offline. It also offers insights into model formats and compatibility, ensuring that users can work with a variety of file types, including ONNX, PyTorch, TensorFlow, and more, while developing their local GPT implementations.
+
+In addition, this GPT serves as a resource for evaluating different models and understanding how to deploy them effectively in offline settings. It helps users simulate real-world interactions, refine prompts for improved outcomes, and manage the technical aspects of offline GPT deployment, such as model file formats and quantization techniques. This tailored approach ensures that users can effectively build and maintain GPT models without relying on internet access, allowing for a more autonomous and secure operation of AI-driven tools in diverse environments.
+
+#
 ### Slow Local GPTs
 
 When evaluating offline AI models like GPT4ALL and Jan, it's essential to consider their speed and computing power requirements in comparison to online models such as ChatGPT's GPT-4. Offline models generally exhibit slower processing speeds due to the limited computational resources available on local machines. While GPT4ALL and Jan can perform a variety of tasks effectively, they may struggle with complex queries or large datasets that require significant processing power. For example, while ChatGPT’s GPT-4 operates on powerful cloud infrastructure, enabling rapid responses and handling more extensive datasets, offline models may lag behind, especially when tasked with intricate language generation or extensive data analysis.
@@ -19,6 +28,8 @@ Moreover, the hardware requirements for running offline models can be a limiting
 
 #
 ### Free GPT Models
+
+![Offline GPTs](https://github.com/user-attachments/assets/b109e9e1-ca9a-4b11-9363-d10114e835c4)
 
 Several platforms provide free downloadable AI models, catering to developers interested in leveraging machine learning and artificial intelligence without significant upfront costs. One prominent site is Hugging Face, which hosts a vast repository of pre-trained models for various tasks, including natural language processing, computer vision, and more. Users can easily access models like BERT and GPT variants, downloading them directly for local use. Hugging Face also offers an extensive library for integration with Python, making it straightforward to implement these models into projects. The platform encourages customization, allowing developers to fine-tune models on their datasets, thus enhancing performance for specific applications while maintaining flexibility in deployment.
 
@@ -45,10 +56,6 @@ Nous-Hermes-2-Mistral-7B-DPO model on a Dell G15 laptop, which uses a GeForce GT
 - Estimated time for generating 100 tokens: ~66–200 seconds (CPU).
 - Estimated time for generating 500 tokens: ~330–1000 seconds (CPU).
 ```
-
-#
-
-![Offline](https://github.com/user-attachments/assets/258d986d-d855-40eb-9792-82b92ec1828e)
 
 #
 
