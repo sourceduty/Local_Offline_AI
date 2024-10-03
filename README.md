@@ -48,6 +48,10 @@ Nous-Hermes-2-Mistral-7B-DPO model on a Dell G15 laptop, which uses a GeForce GT
 
 #
 
+![Offline](https://github.com/user-attachments/assets/258d986d-d855-40eb-9792-82b92ec1828e)
+
+#
+
 > Alex: "*Don't expect the same high-performance speed and power from an offline GPT that an online server-based model can achieve.*"
 
 > "*My Dell G15 laptop can run the Nous-Hermes-2-Mistral-7B-DPO model, but with limitations. Since the GTX 1650 has only 4GB of VRAM, the model runs on the CPU.*"
