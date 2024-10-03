@@ -52,6 +52,8 @@ Nous-Hermes-2-Mistral-7B-DPO model on a Dell G15 laptop, which uses a GeForce GT
 
 > "*My Dell G15 laptop can run the Nous-Hermes-2-Mistral-7B-DPO model, but with limitations. Since the GTX 1650 has only 4GB of VRAM, the model runs on the CPU.*"
 
+> "*For better performance, GPT-4o recommends upgrading to a computer with a higher-end GPU (e.g., 8GB or 12GB VRAM) and a more powerful processor to AI models frequently or handle heavy workloads. A computer with these specs will currently cost around $5000 CAD.*"
+
 
 #
 #### Related Links
