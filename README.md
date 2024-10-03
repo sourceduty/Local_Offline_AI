@@ -20,15 +20,38 @@ Moreover, the hardware requirements for running offline models can be a limiting
 #
 ### Free GPT Models
 
-![Concept](https://github.com/user-attachments/assets/13cbdb37-829e-42c8-b83c-764117f3c758)
-
 Several platforms provide free downloadable AI models, catering to developers interested in leveraging machine learning and artificial intelligence without significant upfront costs. One prominent site is Hugging Face, which hosts a vast repository of pre-trained models for various tasks, including natural language processing, computer vision, and more. Users can easily access models like BERT and GPT variants, downloading them directly for local use. Hugging Face also offers an extensive library for integration with Python, making it straightforward to implement these models into projects. The platform encourages customization, allowing developers to fine-tune models on their datasets, thus enhancing performance for specific applications while maintaining flexibility in deployment.
 
 Another notable resource is TensorFlow Hub, which provides a collection of machine learning models that can be easily downloaded and integrated into Python projects. TensorFlow Hub supports a variety of models for tasks such as image classification, text embedding, and generative modeling. Developers can utilize the TensorFlow framework to customize these models, training them further on specific datasets or altering their architecture to better fit unique project requirements. The extensive documentation and tutorials available on the site facilitate a smooth development process, empowering users to harness the power of AI while adapting the models to suit their individual needs. By providing free access to these resources, both Hugging Face and TensorFlow Hub democratize AI development, making it accessible to a wider audience of developers and researchers.
 
 #
+### Nous-Hermes-2-Mistral-7B-DPO Concept
+
+![Concept](https://github.com/user-attachments/assets/13cbdb37-829e-42c8-b83c-764117f3c758)
+
+The Nous-Hermes-2-Mistral-7B-DPO model is an advanced language model developed by NousResearch. It is based on the Mistral 7B architecture and employs Direct Preference Optimization (DPO), a technique designed to enhance the model’s performance by training it on human feedback. This method enables the model to generate more contextually appropriate and coherent responses.
+
+This model is a fine-tuned version of the OpenHermes-2.5-Mistral-7B, with significant improvements across various benchmarks, such as AGIEval, BigBench Reasoning, and GPT4All, which measure the model's abilities in text reasoning, comprehension, and generation tasks. It is particularly suited for tasks like creative writing, conversation, code generation, and summarization. It also supports multiple languages, making it versatile for global applications.
+
+One key feature of the Nous-Hermes-2-Mistral-7B-DPO model is its use of ChatML, a structured prompt format that enhances interaction by allowing more complex, multi-turn dialogues. This makes it highly adaptable for creating virtual assistants, chatbots, and other text-based applications. Additionally, the model's Q4_0 version refers to a quantized variant, optimized for running efficiently on smaller hardware setups, while still maintaining strong performance.
+
+```
+Nous-Hermes-2-Mistral-7B-DPO model on a Dell G15 laptop, which uses a GeForce GTX 1650 (4GB) and an Intel Core i5-10500H:
+
+- Tokens per second (CPU): 0.5 to 1.5 tokens/second (depending on load and task complexity).
+- Tokens per second (GPU, GTX 1650): Limited or negligible performance boost due to low VRAM, likely falling back to CPU.
+
+- Estimated time for generating 50 tokens: ~33–100 seconds (CPU).
+- Estimated time for generating 100 tokens: ~66–200 seconds (CPU).
+- Estimated time for generating 500 tokens: ~330–1000 seconds (CPU).
+```
+
+#
 
 > Alex: "*Don't expect the same high-performance speed and power from an offline GPT that an online server-based model can achieve.*"
+
+> "*My Dell G15 laptop can run the Nous-Hermes-2-Mistral-7B-DPO model, but with limitations. Since the GTX 1650 has only 4GB of VRAM, the model runs on the CPU.*"
+
 
 #
 #### Related Links
