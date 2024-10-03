@@ -19,6 +19,25 @@ Another example is Jan, an offline AI program that enhances language processing 
 
 In addition, this GPT serves as a resource for evaluating different models and understanding how to deploy them effectively in offline settings. It helps users simulate real-world interactions, refine prompts for improved outcomes, and manage the technical aspects of offline GPT deployment, such as model file formats and quantization techniques. This tailored approach ensures that users can effectively build and maintain GPT models without relying on internet access, allowing for a more autonomous and secure operation of AI-driven tools in diverse environments.
 
+```
+Model File Formats:
+ONNX (.onnx)
+TorchScript (.pt, .pth)
+TensorFlow SavedModel (.pb)
+Hugging Face Model (.bin)
+TFLite (.tflite)
+CoreML (.mlmodel)
+FP16 Weights (.fp16)
+Quantized Models (.tflite, .int8, .int16)
+PyTorch Checkpoints (.pt, .pth)
+JSON Config Files (.json)
+GGML (.ggml)
+GGUF (.gguf)
+H5 (.h5)
+MarianMT (.mt)
+ONNX Runtime Quantized (.onnx)
+```
+
 #
 ### Slow Local GPTs
 
