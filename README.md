@@ -35,7 +35,6 @@ GGML (.ggml)
 GGUF (.gguf)
 H5 (.h5)
 MarianMT (.mt)
-ONNX Runtime Quantized (.onnx)
 ```
 
 #
