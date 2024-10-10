@@ -112,6 +112,8 @@ Nous-Hermes-2-Mistral-7B-DPO model on a Dell G15 laptop, which uses a GeForce GT
 [Intelligence](https://github.com/sourceduty/Intelligence)
 <br>
 [Evolution](https://github.com/sourceduty/Evolution)
+<br>
+[Raspberry Pi](https://github.com/sourceduty/Raspberry_Pi)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
