@@ -83,6 +83,15 @@ Nous-Hermes-2-Mistral-7B-DPO model on a Dell G15 laptop, which uses a GeForce GT
 ```
 
 #
+### Simulated Tweets
+
+![X](https://github.com/user-attachments/assets/127366f4-d329-4d05-8dbf-12e85276b3ee)
+
+An offline tweet simulator is allows users to simulate Twitter interactions in an offline environment, providing a flexible tool for scenarios where online access is limited or unavailable. By leveraging a pre-trained language model, the program can generate tweets in response to input prompts, simulating realistic conversations between Twitter accounts. Users can specify both the sender and receiver's handles and provide contextual input for tweet generation. The program supports optional sentiment analysis, helping users gauge the tone and emotional content of the generated tweets, which can be useful for analyzing conversational dynamics. This setup makes it ideal for testing social media engagement strategies, preparing customer service responses, or running sentiment and trend analyses in a controlled, offline setting.
+
+The program includes features for storing simulated tweets in a local database, which can be easily exported to CSV for further analysis or record-keeping. The command-line interface provides an easy-to-use structure, allowing users to simulate tweets, save or load tweet histories, and interact with various features without needing an internet connection. With its extensible design, the Offline Tweet Simulator can be enhanced with additional capabilities, such as hashtag generation or random variability to mimic human-like responses. This makes it a valuable tool for anyone looking to experiment with tweet generation and response strategies in a fully offline mode, supporting a range of applications from personal projects to professional social media simulations.
+
+#
 
 > Alex: "*Don't expect the same high-performance speed and power from an offline GPT that an online server-based model can achieve.*"
 
@@ -121,6 +130,8 @@ Nous-Hermes-2-Mistral-7B-DPO model on a Dell G15 laptop, which uses a GeForce GT
 [Evolution](https://github.com/sourceduty/Evolution)
 <br>
 [Raspberry Pi](https://github.com/sourceduty/Raspberry_Pi)
+<br>
+[Live Simulation](https://github.com/sourceduty/Live_Simulation)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
