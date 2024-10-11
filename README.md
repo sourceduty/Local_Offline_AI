@@ -132,6 +132,8 @@ The program includes features for storing simulated tweets in a local database, 
 [Raspberry Pi](https://github.com/sourceduty/Raspberry_Pi)
 <br>
 [Live Simulation](https://github.com/sourceduty/Live_Simulation)
+<br>
+[Twitter](https://github.com/sourceduty/Twitter)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
