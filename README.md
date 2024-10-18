@@ -107,7 +107,7 @@ If you have an older laptop or desktop PC on hand, upgrading its RAM and storage
 
 #
 
-> "*Alex: "*My Dell G15 laptop can run the Nous-Hermes-2-Mistral-7B-DPO model, but with GPU limitations. Since the GTX 1650 doesn't work with CUDA, the model runs on the CPU.*"
+> Alex: "*My Dell G15 laptop can run the Nous-Hermes-2-Mistral-7B-DPO model, but with GPU limitations. Since the GTX 1650 doesn't work with CUDA, the model runs on the CPU.*"
 
 > "*For better performance, GPT-4o recommends upgrading to a computer with a higher-end GPU (e.g., 8GB or 12GB VRAM) and a more powerful processor to run AI models frequently or handle heavy workloads.*"
 
