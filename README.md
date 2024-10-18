@@ -122,6 +122,8 @@ Moreover, the effectiveness of GPT models and their alignment with customer valu
 
 > "*I was unable to develop a working offline image generator.*"
 
+> "*Don't expect the same high-performance speed and power from an offline GPT that an online server-based model can achieve.*"
+
 #
 #### Related Links
 
