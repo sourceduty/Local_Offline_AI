@@ -1,0 +1,21 @@
+Workload Type,CPU Suitability,GPU Suitability,Example Processes
+Matrix Multiplication,Moderate,High,"BLAS libraries, TensorFlow matrix ops"
+Deep Learning Training,Low,High,"Training neural networks (CNNs, RNNs)"
+Inference on Large Datasets,Moderate,High,Batch inference with deep learning models
+Complex Conditional Logic,High,Low,"Decision trees, rule-based engines"
+Image Processing (Filters),Moderate,High,"Image enhancement, convolution filters"
+Data Transformation,High,Moderate,"ETL pipelines, JSON/XML transformation"
+"Simulation (Physics, etc.)",High,Moderate,"Weather prediction, fluid simulations"
+Graph Algorithms,Low,High,"Breadth-first search, PageRank"
+Video Encoding/Decoding,Moderate,High,"H.264 video encoding, video transcoding"
+Database Queries,High,Low,"SQL queries, OLTP systems"
+Financial Modeling,High,Moderate,"Risk modeling, option pricing"
+Real-time Rendering,Low,High,"Game engines (Unreal, Unity)"
+Numerical Analysis,High,Moderate,"Finite element analysis, scientific computing"
+Genetic Algorithms,High,Moderate,Optimization of neural network hyperparameters
+Computational Fluid Dynamics,High,Moderate,Turbulence modeling in aerodynamics
+Encryption/Decryption,High,Low,Encrypting data for secure storage
+Sorting Large Datasets,High,Low,"Sorting algorithms (QuickSort, MergeSort)"
+Molecular Dynamics,High,Moderate,Molecular interaction simulations
+Search Algorithms,High,Low,"Binary search, tree traversal"
+Natural Language Processing,Moderate,High,Transformer-based language models
