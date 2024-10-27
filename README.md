@@ -106,6 +106,15 @@ If you're interested in running offline GPT models, you don’t need a high-end 
 If you have an older laptop or desktop PC on hand, upgrading its RAM and storage can turn it into a capable device for running offline GPT models. Older systems with Intel Core i5, AMD Ryzen 5 processors, and at least 8GB of RAM can effectively support smaller models, particularly quantized or optimized versions, such as GGML, FP16, or PyTorch Checkpoints. Using existing hardware not only saves money but also reduces electronic waste, making it an eco-friendly choice. By installing a lightweight Linux distribution or optimizing a Windows installation to minimize background processes, you can extend the life of your older PC or laptop and create a cost-effective setup for offline machine learning experimentation.
 
 #
+### Cyberdecks
+
+![Offline Cyberdeck](https://github.com/user-attachments/assets/bcd11145-a5f0-4f38-afc2-74648f40c2a9)
+
+Rugged offline AI cyberdeck computers are often marketed as robust, portable solutions designed for extreme environments or off-grid use. They typically feature durable, weather-resistant casings, extended battery life, and customized hardware to support AI applications without relying on cloud services. These devices appeal to users who prioritize privacy and data security, as they operate entirely offline, reducing exposure to potential network-based threats. They also cater to hobbyists and tech enthusiasts interested in DIY computing, offering modularity and flexibility in hardware upgrades. Despite their niche appeal, the idea is that these cyberdecks can process complex AI tasks in places where traditional computing might not survive.
+
+However, these rugged cyberdecks can be seen as a waste of money when compared to the practicality of a used laptop, which often delivers more power and versatility at a fraction of the cost. A second-hand laptop with sufficient specs can run most AI applications and models efficiently, offering better performance, a larger screen, and a full keyboard for productivity. Additionally, laptops are more accessible, easily repairable, and compatible with a wide range of peripherals. While rugged cyberdecks boast resilience and customizability, these benefits rarely justify their premium price, especially when a used laptop provides comparable, if not superior, computing capabilities without sacrificing convenience or affordability.
+
+#
 ### Customer Loyalty
 
 ![OpenAI](https://github.com/user-attachments/assets/36d15228-2fe8-4d9e-b466-f989d505cfa7)
