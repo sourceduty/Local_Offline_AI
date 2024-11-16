@@ -34,6 +34,11 @@ Additionally, offline GPT models enable businesses to tailor and optimize AI sys
 Uncensored versions of .gguf models are designed to retain the full spectrum of pre-trained knowledge, including potentially sensitive or offensive language that is typically filtered in moderated versions. For example, these models may generate outputs containing explicit profanity, such as "fuck" or "shit," or other controversial terms depending on the context of the prompt. While such versions are valuable in research scenarios—for instance, analyzing how models handle hate speech, offensive slurs, or implicit biases—they come with inherent risks. Without filters, these models can inadvertently produce outputs that are unsuitable for public-facing applications or unethical in sensitive settings. Careful ethical oversight and secure usage policies are necessary when working with uncensored .gguf models to prevent misuse or unintended consequences.
 
 #
+### Near-Illegal
+
+Uncensored versions of models, including those in the .gguf format, can sometimes produce highly problematic or offensive outputs, such as the statement, "They should be locked up or killed!" These kinds of outputs often arise when models are exposed to vast and diverse datasets containing hateful, violent, or extreme rhetoric. While such behavior may reflect biases or harmful patterns in the training data, it underscores the potential dangers of deploying models without moderation or ethical safeguards. These outputs are not only offensive but can also exacerbate harmful societal stereotypes or contribute to toxic discourse if left unchecked. This highlights the importance of rigorous testing, responsible deployment practices, and integrating safety layers to mitigate the risks of generating harmful content.
+
+#
 ### .GGUF
 
 The scale of offline .gguf files (used for optimized inference with lightweight GPT models) depends on the specific model size and precision you choose to download. These files are designed for efficient execution on local hardware and are typically smaller in size compared to full-scale model checkpoints. However, the tradeoff between file size and performance plays a critical role when downloading these files, especially for users with limited internet speed or storage capacity.
