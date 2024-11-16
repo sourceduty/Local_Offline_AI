@@ -64,13 +64,20 @@ To develop a Python Virtual Machine (VM) capable of running multiple offline GPT
 Resource management is crucial in this setup, as running multiple GPT models offline can be memory and compute-intensive. The VM should include options to limit resource consumption per model and dynamically allocate resources based on the models’ requirements and priority. Additionally, caching mechanisms can be implemented to store frequently accessed model outputs or partial computations, reducing the need for repeated inferences. For further optimization, it would be helpful to incorporate quantized versions of models, where appropriate, to reduce memory load. Implementing a scheduling system could enable the VM to handle multiple model requests efficiently, potentially using asynchronous processing techniques to maximize responsiveness and concurrency while managing the offline environment's limited resources effectively.
 
 #
-### Custom GPT for Offline GPTs
+### Custom GPT
 
 ![Offline GPT](https://github.com/user-attachments/assets/6dbc6a88-ed70-40d9-a6ea-d308dc65c061)
 
 [Offline GPT](https://chatgpt.com/g/g-PhOe9lrMu-offline-gpt) assists users in planning, developing, and simulating offline GPT programs. Its primary function is to provide guidance on how to structure and maintain GPT models in environments where internet connectivity is limited or unavailable. By simulating interactions and troubleshooting development issues, this GPT helps users understand the best practices for refining prompts and optimizing GPT performance offline. It also offers insights into model formats and compatibility, ensuring that users can work with a variety of file types, including ONNX, PyTorch, TensorFlow, and more, while developing their local GPT implementations.
 
 In addition, this GPT serves as a resource for evaluating different models and understanding how to deploy them effectively in offline settings. It helps users simulate real-world interactions, refine prompts for improved outcomes, and manage the technical aspects of offline GPT deployment, such as model file formats and quantization techniques. This tailored approach ensures that users can effectively build and maintain GPT models without relying on internet access, allowing for a more autonomous and secure operation of AI-driven tools in diverse environments.
+
+```
+Plan, develop and simulate an offline GPT program.
+Simulate an example offline GPT program.
+Search for free offline GPT models to download.
+Develop a .gguf GUI.
+```
 
 ```
 Model File Formats:
