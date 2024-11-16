@@ -38,6 +38,8 @@ Uncensored versions of .gguf models are designed to retain the full spectrum of 
 
 Uncensored versions of models, including those in the .gguf format, can sometimes produce highly problematic or offensive outputs, such as the statement, "They should be locked up or killed!" These kinds of outputs often arise when models are exposed to vast and diverse datasets containing hateful, violent, or extreme rhetoric. While such behavior may reflect biases or harmful patterns in the training data, it underscores the potential dangers of deploying models without moderation or ethical safeguards. These outputs are not only offensive but can also exacerbate harmful societal stereotypes or contribute to toxic discourse if left unchecked. This highlights the importance of rigorous testing, responsible deployment practices, and integrating safety layers to mitigate the risks of generating harmful content.
 
+The illegal outputs of uncensored GPT models can range from generating explicit instructions for unlawful activities—such as creating weapons, committing fraud, or hacking systems—to disseminating prohibited content like hate speech or copyrighted materials. These outputs arise because the models are trained on vast datasets that may inadvertently include such information. For instance, a model might generate step-by-step guides for illegal drug synthesis or advocate for violence, posing significant ethical and legal challenges. Such behavior highlights the critical need for safety mechanisms, content filtering, and clear ethical guidelines when deploying AI systems. Without these safeguards, the use of uncensored models can lead to severe consequences, including legal liabilities, reputational damage, and societal harm.
+
 #
 ### .GGUF
 
