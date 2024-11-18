@@ -19,6 +19,8 @@ The conspiracy deepens when considering the global patchwork of AI governance, w
 
 > "*Large AI companies are publishing models that are and can be trained on harmful or unethical regulation.*"
 
+The deployment of offline GPT models has raised significant security concerns due to their potential misuse in various malicious activities. For instance, the emergence of WormGPT and PoisonGPT—variants of the GPT-J model—illustrates how such models can be tailored for harmful purposes. WormGPT has been utilized to craft sophisticated phishing emails and malware, enabling cybercriminals to execute attacks without extensive technical expertise. Similarly, PoisonGPT was designed to disseminate misinformation by generating deceptive content that mimics legitimate sources, thereby facilitating the spread of false information. 
+
 #
 ### Local Power
 
