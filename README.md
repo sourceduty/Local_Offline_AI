@@ -17,6 +17,8 @@ The use of offline GPT models presents unique security challenges that could pot
 
 The conspiracy deepens when considering the global patchwork of AI governance, where regulations vary wildly by region or are entirely absent. This creates loopholes where bad actors can operate within jurisdictions that lack legal frameworks for AI misuse. The accessibility of open-source models and fine-tuning tools makes it feasible for individuals to set up highly capable, offline AI systems with little technical expertise. Such setups could theoretically enable encrypted, AI-powered communications for criminal organizations or automated tools for hacking and espionage. The implications of unregulated offline GPTs extend beyond criminal activities to broader issues of societal destabilization, as these models could be used to polarize public opinion, disrupt elections, or erode trust in institutions, all under the radar of existing surveillance mechanisms.
 
+> "*Large AI companies are publishing models that are and can be trained on harmful or unethical regulation.*"
+
 #
 ### Local Power
 
