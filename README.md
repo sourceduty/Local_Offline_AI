@@ -295,6 +295,8 @@ Moreover, the effectiveness of GPT models and their alignment with customer valu
 [Twitter](https://github.com/sourceduty/Twitter)
 <br>
 [GPT-Driven](https://github.com/sourceduty/GPT-Driven)
+<br>
+[Terminal](https://github.com/sourceduty/Terminal)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
