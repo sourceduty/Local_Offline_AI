@@ -250,6 +250,8 @@ However, several open-source alternatives and models from other companies are av
 #
 ### Hardware
 
+![Shit](https://github.com/user-attachments/assets/99b01bdc-0ffe-4a38-9366-34e75a2cf4ed)
+
 If you're interested in running offline GPT models, you don’t need a high-end PC or laptop to get started. Budget-friendly laptops and desktop PCs, starting around $300 to $500 USD, can handle lightweight model deployment tasks, especially if you focus on more efficient models. Many entry-level laptops and PCs in this range come with Intel Core i3, AMD Ryzen 3, or ARM-based processors, paired with 4GB to 8GB of RAM. While these specs may not be ideal for large, complex models, they work well with optimized formats like TFLite, quantized models, or GGML, which are designed to reduce computational demands. Adding an SSD for external storage can also improve data access speeds and help your system handle model deployment more smoothly.
 
 If you have an older laptop or desktop PC on hand, upgrading its RAM and storage can turn it into a capable device for running offline GPT models. Older systems with Intel Core i5, AMD Ryzen 5 processors, and at least 8GB of RAM can effectively support smaller models, particularly quantized or optimized versions, such as GGML, FP16, or PyTorch Checkpoints. Using existing hardware not only saves money but also reduces electronic waste, making it an eco-friendly choice. By installing a lightweight Linux distribution or optimizing a Windows installation to minimize background processes, you can extend the life of your older PC or laptop and create a cost-effective setup for offline machine learning experimentation.
