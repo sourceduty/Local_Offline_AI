@@ -59,14 +59,12 @@ Hugging Face offers a wide range of models that can be downloaded and used offli
 
 To facilitate offline use, Hugging Face provides tools and documentation to fetch all necessary components, including model weights and tokenizers. Using the Hugging Face Hub interface or command-line tools, users can download models and prepare them for deployment in disconnected environments. Selecting a model depends on the specific use case: smaller models suit lightweight tasks, while larger ones are ideal for robust applications. Ensuring the compatibility of downloaded files with your local infrastructure is key to successful offline deployment.
 
-```
 | Model Name             | Description                                        | Size       | Link                                                                                         |
 |-----------------------------|--------------------------------------------------------|----------------|-----------------------------------------------------------------------------------------------|
 | Phi-3.5-mini-instruct      | Compact and efficient model for lightweight tasks      | Small          | [Phi-3.5-mini-instruct](https://huggingface.co/microsoft/Phi-3.5-mini-instruct)               |
 | Llama-2-7b                | Robust model with advanced capabilities                | Large          | [Llama-2-7b](https://huggingface.co/meta-llama/Llama-2-7b)                                    |
 | Meta-Llama-3-8B-GGUF      | Optimized model for offline environments               | Medium-Large   | [Meta-Llama-3-8B-GGUF](https://huggingface.co/QuantFactory/Meta-Llama-3-8B-GGUF)              |
 | Transformers Documentation | Guide for offline setup and deployment                 | N/A            | [Hugging Face Documentation](https://huggingface.co/docs/transformers/v4.31.0/installation)   |
-```
 
 #
 ### Offline GPTs
