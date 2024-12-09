@@ -96,6 +96,8 @@ The scale of offline .gguf files (used for optimized inference with lightweight 
 
 If you don’t have fast internet, downloading smaller versions of .gguf files is recommended, such as 4-bit or 8-bit quantized versions. Quantized models reduce the file size significantly by lowering the precision of weights while maintaining reasonable performance. For instance, a 7B (7 billion parameters) model in 4-bit quantization might be a few gigabytes, whereas the full 16-bit precision version could exceed 20 GB. For most offline use cases where performance is prioritized over extreme accuracy (e.g., generating text, chatbots, or basic analysis), these smaller quantized versions are sufficient. If your use case requires higher fidelity, such as complex computations or nuanced language understanding, you might opt for the FP16 versions, which are larger but more precise. Users with slower internet should prioritize the smallest model that meets their requirements, starting with 7B or smaller, and only download larger versions (13B, 30B, or 65B) if absolutely necessary for their application.
 
+If printed on A4 paper, the number of pages required would depend on the density of the data printed per page. Assuming 3 KB of data (approximately 3,000 characters) can fit on one A4 page using a compact font and layout, a 1 GB file would require roughly 333,000 pages. For a 5 GB file, this number scales up to about 1,666,000 pages. These figures provide a sense of the impracticality of attempting to print such a file.
+
 #
 ### .GGUF Dev
 
